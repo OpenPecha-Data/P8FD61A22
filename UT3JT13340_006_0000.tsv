@@ -1,0 +1,120 @@
+form	lemma	POS	morph
+ཧཱུྃ་		NON_WORD
+༔		PUNCT
+བླ་མ་	བླ་མ་	NOUN
+ཡི་དམ་	ཡི་དམ་	NOUN
+ཞི་	ཞི་	VERB
+ཁྲོ་	ཁྲོ་	VERB
+རབ་འབྱམས་	རབ་འབྱམས་	ADJ
+དང་	དང་	NO_POS
+༔		PUNCT
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+དམ་ཅན་	དམ་ཅན་	NOUN
+མ་ནིང་	མ་ནིང་	OTHER
+ནག་པོ་	ནག་པོ་	ADJ
+དང་	དང་	NO_POS
+༔		PUNCT
+ཨེ་	ཨེ་	PART
+ཀ་	ཀ་	DET
+ཙ་	ཙ་	NOUN
+ཏི་	ཏི་	NO_POS
+དཔལ་འབར་	དཔལ་འབར་	PROPN
+སྲོག་	སྲོག་	NOUN
+བདག་	བདག་	PRON
+དང་	དང་	NO_POS
+༔		PUNCT
+ཁྱབ་འཇུག་	ཁྱབ་འཇུག་	OTHER
+གནོད་སྦྱིན་	གནོད་སྦྱིན་	NOUN
+དམ་ཅན་	དམ་ཅན་	NOUN
+ཐིག་ལེ་	ཐིག་ལེ་	NOUN
+རྩལ་	རྩལ་	NOUN
+༔		PUNCT
+བརྟན་མ་	བརྟན་མ་	NOUN
+བཅུ་གཉིས་	བཅུ་གཉིས་	NO_POS
+དགེ་བསྙེན་	དགེ་བསྙེན་	NOUN
+ཉེ་	ཉེ་	NUM
+གཅིག་	གཅིག་	NUM
+དང་	དང་	NO_POS
+༔		PUNCT
+ཡུལ་ལྷ་	ཡུལ་ལྷ་	NOUN
+གཞི་བདག་	གཞི་བདག་	NOUN
+འཁོར་	འཁོར་	NOUN
+དང་	དང་	NO_POS
+བཅས་པ་	བཅས་པ་	VERB
+ལ་	ལ་	PART
+༔		PUNCT
+ཞལ་ཟས་	ཞལ་ཟས་	NOUN
+ཚོགས་	ཚོགས་	NOUN
+ཀྱི་	གི་	PART
+མཆོད་པ་	མཆོད་པ་	VERB
+འདི་	འདི་	DET
+འབུལ་བ་	འབུལ་བ་	VERB
+ས་	གིས་	PART
+༔		PUNCT
+དགྱེས་པ་	དགྱེས་པ་	VERB
+ར་	ལ་	PART
+དགོངས་	དགོངས་	VERB
+ལ་	ལ་	PART
+དངོས་གྲུབ་	དངོས་གྲུབ་	NOUN
+སྩལ་	སྩལ་	VERB
+དུ་	ལ་	PART
+གསོལ་	གསོལ་	VERB
+༔		PUNCT
+མ་	མ་	PART
+ཧཱ་		NON_WORD
+གྷ་		NON_WORD
+ན་	ལ་	PART
+ཙཀྲ་	ཙཀྲ་	NO_POS
+པཱུ་		NON_WORD
+ཙ་	ཙ་	NOUN
+ལ་	ལ་	PART
+ཁཱ་		NON_WORD
+ཧིཿ་		NON_WORD
+༈		PUNCT
+ཧཱུྃ་		NON_WORD
+༔		PUNCT
+བླ་མ་	བླ་མ་	NOUN
+ཡི་དམ་	ཡི་དམ་	NOUN
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+དམ་ཅན་	དམ་ཅན་	NOUN
+དགོངས་	དགོངས་	VERB
+༔		PUNCT
+བདག་ཅག་	བདག་ཅག་	PRON
+མ་རིག་	མ་རིག་	NOUN
+འཁྲུལ་པ་	འཁྲུལ་པ་	NO_POS
+འི་	གི་	PART
+རང་བཞིན་	རང་བཞིན་	NOUN
+གྱིས་	གིས་	PART
+༔		PUNCT
+ཉོན་མོངས་	ཉོན་མོངས་	NOUN
+དབང་	དབང་	NOUN
+གྱུར་	གྱུར་	VERB
+སྐུ་གསུང་ཐུགས་	སྐུ་གསུང་ཐུགས་	NOUN
+ལ་སོགས་	ལ་སོགས་	NO_POS
+༔		PUNCT
+རྩ་བ་	རྩ་བ་	NOUN
+ཡན་ལག་	ཡན་ལག་	NOUN
+དམ་ཚིག་	དམ་ཚིག་	NOUN
+ཉམས་པ་	ཉམས་པ་	VERB
+ཀུན་	ཀུན་	DET
+༔		PUNCT
+གནོང་འགྱོད་	གནོང་འགྱོད་	NOUN
+དྲག་པོ་	དྲག་པོ་	ADJ
+ས་	གིས་	PART
+མཐོལ་བཤགས་	མཐོལ་བཤགས་	NOUN
+བཟོད་པ་	བཟོད་པ་	VERB
+ར་	ལ་	PART
+བཞེས་	བཞེས་	VERB
+༔		PUNCT
+ཚངས་པ་	ཚངས་པ་	PROPN
+མཆོག་	མཆོག་	ADJ
+གི་	གི་	PART
+དངོས་གྲུབ་	དངོས་གྲུབ་	NOUN
+སྩལ་	སྩལ་	VERB
+དུ་	ལ་	PART
+གསོལ་	གསོལ་	VERB
+༔		PUNCT
+ཡི་གེ་	ཡི་གེ་	NOUN
+བརྒྱ་པ་	བརྒྱ་པ་	NUM
+བརྗོད་	བརྗོད་	VERB
+།		PUNCT
